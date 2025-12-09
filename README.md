@@ -1,5 +1,8 @@
 # Flutter
 
+<details>
+    <sumarry> TUTORIAIS FLUTTER YT</sumarry>
+
 
 <details>
     <summary>Flutter Layout <a href='https://youtu.be/KP_Ysqu6JOY?si=XU-rFBhuW9Z4RNJk'>Aula #03</a></summary>
@@ -64,7 +67,10 @@ Para fazer um icone, deixa a imagem em tamanho padrao para ico: https://www.appi
 substitua os arquivos pelos baixados do site, confira se adicionou todos os icones, sao muitos
 
 </details>
+</details>
 
-eu tinha feito algo eu mesmo mas perdi agora ta a bosta da calculadora da IA, e, fica aqui minha nota de repudio a documentação do flutter vao tomar no cu flutters vcs fizeram um blog enorme eu só quero saber qual enigma tenho q digitar pra fazer os bgl pqp pelo amor de deus cara, eles ensinam bem ate mas oq importa nao se acha vtnc documentador do flutter, vai virar jornalista sla cara pqp RESUME RESUME MUITO ESSA EH MINHA NOTA >:C vou continuar usando pq eh oq tem ne q outra alternativa a flutter existe? #luto mas pelo menos dart é #muitolegal :D
+<img width="322" height="648" alt="Image" src="https://github.com/user-attachments/assets/8c90683a-6f73-4bb4-978d-a647afa48381" />
+
+<img width="318" height="667" alt="Image" src="https://github.com/user-attachments/assets/ac932999-2510-4cf8-b67c-159612125dc0" />
 
 
